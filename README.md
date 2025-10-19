@@ -17,7 +17,7 @@
 * **Frameworks:** Spring Boot, Spring Security, Spring Data JPA
 * **Testes:** JUnit 5, Mockito, Spring Boot Test (MockMvc)
 * **Ferramentas:** Git, Maven, Postman, IntelliJ IDEA
-* **Banco de Dados:** H2 (para desenvolvimento/testes)
+* **Banco de Dados:** PostgreSQL, MySQL, H2
 * **Conceitos:** APIs REST, JWT, Testes Automatizados, Orientação a Objetos
 
 📊 **Minhas Estatísticas no GitHub:**
